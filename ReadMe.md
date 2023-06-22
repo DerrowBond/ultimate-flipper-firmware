@@ -1,12 +1,7 @@
 <h3 align="center">
-<a href="https://github.com/DarkFlippers/unleashed-firmware">
-<img src="https://user-images.githubusercontent.com/10697207/186202043-26947e28-b1cc-459a-8f20-ffcc7fc0c71c.png" align="center" alt="fzCUSTOM" border="0">
-</a>
 </h3>
 
-### Welcome to the Flipper Zero Unleashed Firmware repo! 
-
-#### **This firmware is a fork from** [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+### Welcome to the Flipper Zero Ultimate Firmware repo! 
 
 <br>
 
@@ -14,22 +9,14 @@
 
 <br>
 
-##### This software is for experimental purposes only and is not meant for any illegal activity/purposes. <br> We do not condone illegal activity and strongly encourage keeping transmissions to legal/valid uses allowed by law. <br> Also, this software is made without any support from Flipper Devices and is in no way related to the official devs. 
-
 <br>
 Our Discord Community:
 <br>
-<a href="https://discord.unleashedflip.com"><img src="https://discordapp.com/api/guilds/937479784148115456/widget.png?style=banner4" alt="Unofficial Discord Community" target="_blank"></a>
+<a href="https://discord.gg/jCYQ8C7Z5n"><img src="https://discordapp.com/api/guilds/937479784148115456/widget.png?style=banner4" alt="Ultimate Discord Community" target="_blank"></a>
 
 <br>
 <br>
 <br>
-
-## Dev builds (unstable)
-- https://dev.unleashedflip.com/
-- https://t.me/kotnehleb
-## Releases in Telegram
-- https://t.me/unleashed_fw
 
 # What's changed
 * Sub-GHz regional TX restrictions removed
@@ -70,120 +57,6 @@ Our Discord Community:
 * Other small fixes and changes throughout
 * See other changes in readme below
 
-Also check the changelog in releases for latest updates!
-
-### Current modified and new Sub-GHz protocols list:
-Thanks to Official team (to their SubGHz Developer, Skorp) for implementing decoders for these protocols in OFW.
-
-Keeloq [Not ALL systems supported for decode or emulation yet!] - [Supported manufacturers list](https://0bin.net/paste/VwR2lNJY#WH9vnPgvcp7w6zVKucFCuNREKAcOij8KsJ6vqLfMn3b)
-
-Encoders or sending made by @xMasterX:
-- Nero Radio 57bit (+ 56bit encoder improvements)
-- CAME 12bit/24bit encoder fixes (Fixes now merged in OFW)
-- Keeloq: HCS101
-- Keeloq: AN-Motors
-- Keeloq: JCM Tech
-- Keeloq: MHouse
-- Keeloq: Nice Smilo
-- Keeloq: DTM Neo
-- Keeloq: FAAC RC,XT
-- Keeloq: Mutancode
-- Keeloq: Normstahl
-- Keeloq: Beninca + Allmatic
-- Keeloq: Stilmatic
-- Keeloq: CAME Space
-- Keeloq: Aprimatic (model TR and similar)
-
-Encoders or sending made by @Eng1n33r(first implementation in Q2 2022) & @xMasterX (current version):
-- CAME Atomo -> Update! check out new [instructions](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/documentation/SubGHzRemoteProg.md)
-- Nice Flor S -> How to create new remote - [instructions](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/documentation/SubGHzRemoteProg.md)
-- FAAC SLH (Spa) [External seed calculation required (For info contact me in Discord: @mmx7)] 
-- Keeloq: BFT Mitto -> Update! check out new [instructions](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/documentation/SubGHzRemoteProg.md)
-- Star Line
-- Security+ v1 & v2 (encoders was made in OFW)
-
-Encoders made by @assasinfil & @xMasterX:
-- Somfy Telis -> How to create new remote - [instructions](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/documentation/SubGHzRemoteProg.md)
-- Somfy Keytis
-- KingGates Stylo 4k
-- Alutech AT-4N -> How to create new remote - [instructions](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/documentation/SubGHzRemoteProg.md)
-- Nice ON2E (Nice One) -> How to create new remote - [instructions](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/documentation/SubGHzRemoteProg.md)
-
-## Please support development of the project
-The majority of this project is developed and maintained by me, @xMasterX.
-I'm unemployed, and the only income I receive is from your donations.
-Our team is small and the guys are working on this project as much as they can solely based on the enthusiasm they have for this project and the community.
-- @assasinfil - SubGHz
-- @Svaarich - UI design and animations
-- @Amec0e - Infrared assets
-- Community moderators in Telegram, Discord, and Reddit
-- And of course our GitHub community. Your PRs are a very important part of this firmware and open-source development.
-
-The amount of work done on this project is huge and we need your support, no matter how large or small. Even if you just say, "Thank you Unleashed firmware developers!" somewhere. Doing so will help us continue our work and will help drive us to make the firmware better every time.
-Also, regarding our releases, every build has and always will be free and open-source. There will be no paywall releases or closed-source apps within the firmware. As long as I am working on this project it will never happen.
-You can support us by using links or addresses below:
-* **Boosty** (patreon alternative): https://boosty.to/mmxdev
-* cloudtips (only RU payments accepted): https://pay.cloudtips.ru/p/7b3e9d65
-* YooMoney (only RU payments accepted): https://yoomoney.ru/fundraise/XA49mgQLPA0.221209
-* USDT(TRC20): `TSXcitMSnWXUFqiUfEXrTVpVewXy2cYhrs`
-* BCH: `qquxfyzntuqufy2dx0hrfr4sndp0tucvky4sw8qyu3`
-* ETH/BSC/ERC20-Tokens: `darkflippers.eth` (or `0xFebF1bBc8229418FF2408C07AF6Afa49152fEc6a`)
-* BTC: `bc1q0np836jk9jwr4dd7p6qv66d04vamtqkxrecck9`
-* DOGE: `D6R6gYgBn5LwTNmPyvAQR6bZ9EtGgFCpvv`
-* LTC: `ltc1q3ex4ejkl0xpx3znwrmth4lyuadr5qgv8tmq8z9`
-* XMR (Monero): `41xUz92suUu1u5Mu4qkrcs52gtfpu9rnZRdBpCJ244KRHf6xXSvVFevdf2cnjS7RAeYr5hn9MsEfxKoFDRSctFjG5fv1Mhn`
-* TON: `EQCOqcnYkvzOZUV_9bPE_8oTbOrOF03MnF-VcJyjisTZmpGf`
-
-### Community apps included:
-
-- **RFID Fuzzer** [(by @gid9798)](https://github.com/DarkFlippers/unleashed-firmware/pull/507) (original by Ganapati & xMasterX)
-- **iButton Fuzzer** [(by @gid9798)](https://github.com/DarkFlippers/unleashed-firmware/pull/507) (original by xMasterX)
-- **Sub-GHz bruteforcer** [(by @derskythe & xMasterX)](https://github.com/derskythe/flipperzero-subbrute) [(original by Ganapati & xMasterX)](https://github.com/DarkFlippers/unleashed-firmware/pull/57)
-- **Sub-GHz playlist** [(by darmiel)](https://github.com/DarkFlippers/unleashed-firmware/pull/62)
-- ESP8266 Deauther plugin [(by SequoiaSan)](https://github.com/SequoiaSan/FlipperZero-Wifi-ESP8266-Deauther-Module)
-- WiFi Scanner plugin [(by SequoiaSan)](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module)
-- MultiConverter plugin [(by theisolinearchip)](https://github.com/theisolinearchip/flipperzero_stuff)
-- WAV Player [(OFW: DrZlo13)](https://github.com/flipperdevices/flipperzero-firmware/tree/zlo/wav-player) - Fixed and improved by [LTVA1](https://github.com/LTVA1/wav_player) -> Also outputs audio on `PA6` - `3(A6)` pin
-- Barcode generator plugin [(original by McAzzaMan)](https://github.com/McAzzaMan/flipperzero-firmware/tree/UPC-A_Barcode_Generator/applications/barcode_generator) - [EAN-8 and refactoring](https://github.com/DarkFlippers/unleashed-firmware/pull/154) by @msvsergey
-- GPIO: Sentry Safe plugin [(by H4ckd4ddy)](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin)
-- ESP32: WiFi Marauder companion plugin [(by 0xchocolate)](https://github.com/0xchocolate/flipperzero-wifi-marauder) - Saving .pcap on flipper microSD [by tcpassos](https://github.com/tcpassos/flipperzero-firmware-with-wifi-marauder-companion) -> Only with custom marauder build (It is necessary to uncomment "#define WRITE_PACKETS_SERIAL" in configs.h (in marauder fw) and compile the firmware for the wifi board.) Or download precompiled build -> [Download esp32_marauder_ver_flipper_sd_serial.bin](https://github.com/justcallmekoko/ESP32Marauder/releases/latest)
-- NRF24: Sniffer & MouseJacker (with changes) [(by mothball187)](https://github.com/mothball187/flipperzero-nrf24/tree/main/mousejacker)
-- Simple Clock (timer by GMMan) [(original by CompaqDisc)](https://gist.github.com/CompaqDisc/4e329c501bd03c1e801849b81f48ea61)
-- **Sub-GHz Remote** [(by @gid9798)](https://github.com/gid9798)
-- Spectrum Analyzer (with changes) [(by jolcese)](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer) - [Ultra Narrow mode & scan channels non-consecutively](https://github.com/theY4Kman/flipperzero-firmware/commits?author=theY4Kman)
-- Metronome [(by panki27)](https://github.com/panki27/Metronome)
-- DTMF Dolphin [(by litui)](https://github.com/litui/dtmf_dolphin)
-- **TOTP (Authenticator)** [(by akopachov)](https://github.com/akopachov/flipper-zero_authenticator)
-- GPS [(by ezod)](https://github.com/ezod/flipperzero-gps) works with module `NMEA 0183` via UART (13TX, 14RX, GND pins on Flipper)
-- i2c Tools [(by NaejEL)](https://github.com/NaejEL/flipperzero-i2ctools) - C0 -> SCL / C1 -> SDA / GND -> GND | 3v3 logic levels only!
-- HC-SR04 Distance sensor - Ported and modified by @xMasterX [(original by Sanqui)](https://github.com/Sanqui/flipperzero-firmware/tree/hc_sr04) - How to connect -> (5V -> VCC) / (GND -> GND) / (13|TX -> Trig) / (14|RX -> Echo)
-- Morse Code [(by wh00hw)](https://github.com/wh00hw/MorseCodeFAP)
-- **Unitemp - Temperature sensors reader** (DHT11/22, DS18B20, BMP280, HTU21x and more) [(by quen0n)](https://github.com/quen0n/unitemp-flipperzero)
-- BH1750 - Lightmeter [(by oleksiikutuzov)](https://github.com/oleksiikutuzov/flipperzero-lightmeter)
-- HEX Viewer [(by QtRoS)](https://github.com/QtRoS/flipper-zero-hex-viewer)
-- POCSAG Pager [(by xMasterX & Shmuma)](https://github.com/xMasterX/flipper-pager)
-- Text Viewer [(by kowalski7cc & kyhwana)](https://github.com/kowalski7cc/flipper-zero-text-viewer/tree/refactor-text-app)
-- **UART Terminal** [(by cool4uma)](https://github.com/cool4uma/UART_Terminal/tree/main)
-- **ProtoView** [(by antirez)](https://github.com/antirez/protoview)
-- **SWD Probe** [(by g3gg0)](https://github.com/g3gg0/flipper-swd_probe)
-- IR Scope [(by kallanreed)](https://github.com/DarkFlippers/unleashed-firmware/pull/407)
-- **BadBT** plugin (BT version of BadKB) [(by Willy-JL, ClaraCrazy, XFW contributors)](https://github.com/ClaraCrazy/Flipper-Xtreme/tree/dev/applications/main/bad_kb) (See in Applications->Tools) - (aka BadUSB via Bluetooth)
-- **Mifare Nested** [(by AloneLiberty)](https://github.com/AloneLiberty/FlipperNested) - Works with PC and python app `FlipperNested`
-
-Games:
-- DOOM (fixed) [(by p4nic4ttack)](https://github.com/p4nic4ttack/doom-flipper-zero/)
-- Zombiez [(Reworked By DevMilanIan)](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/pull/240) [(Original By Dooskington)](https://github.com/Dooskington/flipperzero-zombiez)
-- Flappy Bird [(by DroomOne)](https://github.com/DroomOne/flipperzero-firmware/tree/dev/applications/flappy_bird)
-- Arkanoid (refactored by xMasterX) [(by gotnull)](https://github.com/gotnull/flipperzero-firmware-wPlugins)
-- Tic Tac Toe (refactored by xMasterX) [(by gotnull)](https://github.com/gotnull/flipperzero-firmware-wPlugins)
-- Tetris (with fixes) [(by jeffplang)](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
-- Minesweeper [(by panki27)](https://github.com/panki27/minesweeper)
-- Heap Defence (aka Stack Attack) - Ported to latest firmware by @xMasterX - [(original by wquinoa & Vedmein)](https://github.com/Vedmein/flipperzero-firmware/tree/hd/svisto-perdelki)
-- Game15 [(by x27)](https://github.com/x27/flipperzero-game15)
-- Solitaire [(by teeebor)](https://github.com/teeebor/flipper_games)
-- BlackJack [(by teeebor)](https://github.com/teeebor/flipper_games)
-- 2048 game [(by eugene-kirzhanov)](https://github.com/eugene-kirzhanov/flipper-zero-2048-game)
-- Bomberduck [(by leo-need-more-coffee)](https://github.com/leo-need-more-coffee/flipperzero-bomberduck)
 
 
 # Instructions
@@ -261,14 +134,11 @@ Games:
 
 # Links
 
-* Unofficial Discord: [discord.unleashedflip.com](https://discord.unleashedflip.com)
+* Ultimate Discord: [https://discord.gg/jCYQ8C7Z5n](https://discord.gg/jCYQ8C7Z5n)
 * Hello world - plugin tutorial (English): [https://github.com/DroomOne/Flipper-Plugin-Tutorial](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
-* Hello world - plugin tutorial (in Russian): [https://yakovlev.me/hello-flipper-zero/](https://yakovlev.me/hello-flipper-zero/)
-* CLion IDE - How to setup workspace for flipper firmware development: [https://krasovs.ky/2022/11/01/flipper-zero-clion.html](https://krasovs.ky/2022/11/01/flipper-zero-clion.html)
 * Docs by atmanos / How to write your own app (outdated API): [https://flipper.atmanos.com/docs/overview/intro](https://flipper.atmanos.com/docs/overview/intro)
 
 * Official Docs: [http://docs.flipperzero.one](http://docs.flipperzero.one)
-* Official Forum: [forum.flipperzero.one](https://forum.flipperzero.one/)
 
 # Project structure
 
