@@ -12,7 +12,7 @@
 <br>
 Our Discord Community:
 <br>
-<a href="https://discord.gg/jCYQ8C7Z5n"><img src="https://discordapp.com/api/guilds/937479784148115456/widget.png?style=banner4" alt="Ultimate Discord Community" target="_blank"></a>
+<a href="https://discord.gg/jCYQ8C7Z5n"><img src="https://www.ifoedit.com/1.png" alt="Ultimate Discord Community" target="_blank"></a>
 
 <br>
 <br>
